@@ -1,6 +1,7 @@
-# How to run
+# How it works
+<image src = "working.png">
 
-Foobar is a Python library for dealing with word pluralization.
+
 
 ## Installation
 
