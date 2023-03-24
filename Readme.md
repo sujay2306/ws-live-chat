@@ -1,4 +1,4 @@
-# Working
+# How it works
 <image src = "working.png">
 
 
