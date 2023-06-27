@@ -22,7 +22,7 @@ subscriber.on("subscribe", function(channel, count) {
  
 subscriber.on("message", function(channel, message) {
   try{
-  //when we receive a message I want t
+  //when we receive a message 
   console.log(`Server ${APPID} received message in channel ${channel} msg: ${message}`);
   connections.forEach(c => c.send(APPID + ":" + message))
     
